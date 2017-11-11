@@ -4,6 +4,7 @@ import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
 import org.json.JSONArray;
+import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.io.IOException;
@@ -14,6 +15,8 @@ import java.util.*;
  * WeekWeather.
  */
 public class WeekWeather {
+
+    private Place place;
 
     private List<Integer> currentDayWeatherList = new ArrayList<>();
     private List<Integer> firstDayWeatherList = new ArrayList<>();
@@ -26,19 +29,33 @@ public class WeekWeather {
 
     private OkHttpClient client = new OkHttpClient();
 
-    public void getResponse(Place place) throws IOException {
+    public WeekWeather(Place place) {
+        this.place = place;
+    }
+
+    public void setResponse() throws IOException {
         String city = place.getCityName();
-        String country = place.getCountryName();
 
         Request request = new Request.Builder()
-                .url("http://api.openweathermap.org/data/2.5/forecast?q=" + city + "," + country
+                .url("http://api.openweathermap.org/data/2.5/forecast?q=" + city
                         + "&units=metric&lang=en&appid=05d34fad269d1a87279992b506b6dd98")
                 .build();
 
         Response response = client.newCall(request).execute();
-        JSONResponse = response.body().string();
+
+        this.JSONResponse = response.body().string();
     }
 
+    public void setCoordinates() {
+        JSONObject jsonObject = new JSONObject(JSONResponse);
+        String latitude = String.format("%.2f", jsonObject.getJSONObject("city").getJSONObject("coord")
+                .getDouble("lat"));
+        String longitude = String.format("%.2f", jsonObject.getJSONObject("city").getJSONObject("coord")
+                .getDouble("lon"));
+
+        place.setLatitude(latitude);
+        place.setLongitude(longitude);
+    }
 
     public void sortTemperaturesByDays() {
         LocalDate localDate = LocalDate.now();

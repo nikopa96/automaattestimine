@@ -1,0 +1,18 @@
+-----------------------------------------
+Cairo
+Current weather: 15
+Highest temperature today: 25
+Lowest temperature today: 12
+-----------------------------------------
+-----------------------------------------
+Moscow
+Current weather: 2
+Highest temperature today: 4
+Lowest temperature today: 2
+-----------------------------------------
+-----------------------------------------
+Tallinn
+Current weather: 5
+Highest temperature today: 6
+Lowest temperature today: 4
+-----------------------------------------
