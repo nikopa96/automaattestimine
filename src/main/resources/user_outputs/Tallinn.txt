@@ -1,0 +1,32 @@
+Place name: Tallinn
+Current temperature: 2.96
+Max temperature: 2.96
+Min temperature: 2.72
+Pressure: 1027.31
+Description: light rain
+Date: 2017.12.21
+
+Place name: Tallinn
+Current temperature: -0.23
+Max temperature: -0.23
+Min temperature: -0.23
+Pressure: 1021.66
+Description: few clouds
+Date: 2017.12.22
+
+Place name: Tallinn
+Current temperature: 0.05
+Max temperature: 0.05
+Min temperature: 0.05
+Pressure: 1020.65
+Description: clear sky
+Date: 2017.12.23
+
+Place name: Tallinn
+Current temperature: 4.28
+Max temperature: 4.28
+Min temperature: 4.28
+Pressure: 990.93
+Description: light rain
+Date: 2017.12.24
+

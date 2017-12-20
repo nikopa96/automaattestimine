@@ -1,0 +1,32 @@
+Place name: Tokyo
+Current temperature: 4.16
+Max temperature: 5.25
+Min temperature: 4.16
+Pressure: 1035.18
+Description: few clouds
+Date: 2017.12.21
+
+Place name: Tokyo
+Current temperature: 5.55
+Max temperature: 5.55
+Min temperature: 5.55
+Pressure: 1035.2
+Description: broken clouds
+Date: 2017.12.22
+
+Place name: Tokyo
+Current temperature: 6.02
+Max temperature: 6.02
+Min temperature: 6.02
+Pressure: 1031.91
+Description: clear sky
+Date: 2017.12.23
+
+Place name: Tokyo
+Current temperature: 6.53
+Max temperature: 6.53
+Min temperature: 6.53
+Pressure: 1032.43
+Description: broken clouds
+Date: 2017.12.24
+

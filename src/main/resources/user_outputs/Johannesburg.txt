@@ -1,0 +1,32 @@
+Place name: Johannesburg
+Current temperature: 16.44
+Max temperature: 16.44
+Min temperature: 15.3
+Pressure: 856.2
+Description: few clouds
+Date: 2017.12.21
+
+Place name: Johannesburg
+Current temperature: 15.3
+Max temperature: 15.3
+Min temperature: 15.3
+Pressure: 853.46
+Description: moderate rain
+Date: 2017.12.22
+
+Place name: Johannesburg
+Current temperature: 13.15
+Max temperature: 13.15
+Min temperature: 13.15
+Pressure: 848.15
+Description: light rain
+Date: 2017.12.23
+
+Place name: Johannesburg
+Current temperature: 15.15
+Max temperature: 15.15
+Min temperature: 15.15
+Pressure: 850.45
+Description: scattered clouds
+Date: 2017.12.24
+

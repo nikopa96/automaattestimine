@@ -1,3 +1,6 @@
 Cairo
 Moscow
 Tallinn
+Riga
+Johannesburg
+Tokyo

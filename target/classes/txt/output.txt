@@ -1,18 +1,192 @@
------------------------------------------
-Cairo
-Current weather: 15
-Highest temperature today: 25
-Lowest temperature today: 12
------------------------------------------
------------------------------------------
-Moscow
-Current weather: 2
-Highest temperature today: 4
-Lowest temperature today: 2
------------------------------------------
------------------------------------------
-Tallinn
-Current weather: 5
-Highest temperature today: 6
-Lowest temperature today: 4
------------------------------------------
+Place name: Cairo
+Current temperature: 16.57
+Max temperature: 16.57
+Min temperature: 14.55
+Pressure: 1018.8
+Description: overcast clouds
+Date: 2017.12.21
+
+Place name: Cairo
+Current temperature: 14.63
+Max temperature: 14.63
+Min temperature: 14.63
+Pressure: 1016.31
+Description: scattered clouds
+Date: 2017.12.22
+
+Place name: Cairo
+Current temperature: 20.12
+Max temperature: 20.12
+Min temperature: 20.12
+Pressure: 1012.38
+Description: scattered clouds
+Date: 2017.12.23
+
+Place name: Cairo
+Current temperature: 14.75
+Max temperature: 14.75
+Min temperature: 14.75
+Pressure: 1015.08
+Description: broken clouds
+Date: 2017.12.24
+
+Place name: Moscow
+Current temperature: 0.27
+Max temperature: 0.27
+Min temperature: -0.73
+Pressure: 939.77
+Description: clear sky
+Date: 2017.12.21
+
+Place name: Moscow
+Current temperature: -1.95
+Max temperature: -1.95
+Min temperature: -1.95
+Pressure: 943.52
+Description: scattered clouds
+Date: 2017.12.22
+
+Place name: Moscow
+Current temperature: -1.01
+Max temperature: -1.01
+Min temperature: -1.01
+Pressure: 941.85
+Description: light snow
+Date: 2017.12.23
+
+Place name: Moscow
+Current temperature: -9.53
+Max temperature: -9.53
+Min temperature: -9.53
+Pressure: 951.21
+Description: clear sky
+Date: 2017.12.24
+
+Place name: Tallinn
+Current temperature: 2.96
+Max temperature: 2.96
+Min temperature: 2.72
+Pressure: 1027.31
+Description: light rain
+Date: 2017.12.21
+
+Place name: Tallinn
+Current temperature: -0.23
+Max temperature: -0.23
+Min temperature: -0.23
+Pressure: 1021.66
+Description: few clouds
+Date: 2017.12.22
+
+Place name: Tallinn
+Current temperature: 0.05
+Max temperature: 0.05
+Min temperature: 0.05
+Pressure: 1020.65
+Description: clear sky
+Date: 2017.12.23
+
+Place name: Tallinn
+Current temperature: 4.28
+Max temperature: 4.28
+Min temperature: 4.28
+Pressure: 990.93
+Description: light rain
+Date: 2017.12.24
+
+Place name: Riga
+Current temperature: 0.27
+Max temperature: 0.27
+Min temperature: -0.96
+Pressure: 1037.28
+Description: clear sky
+Date: 2017.12.21
+
+Place name: Riga
+Current temperature: 0.93
+Max temperature: 0.93
+Min temperature: 0.93
+Pressure: 1027.09
+Description: clear sky
+Date: 2017.12.22
+
+Place name: Riga
+Current temperature: 2.57
+Max temperature: 2.57
+Min temperature: 2.57
+Pressure: 1024.29
+Description: light rain
+Date: 2017.12.23
+
+Place name: Riga
+Current temperature: 5.6
+Max temperature: 5.6
+Min temperature: 5.6
+Pressure: 1000.9
+Description: light rain
+Date: 2017.12.24
+
+Place name: Johannesburg
+Current temperature: 16.44
+Max temperature: 16.44
+Min temperature: 15.3
+Pressure: 856.2
+Description: few clouds
+Date: 2017.12.21
+
+Place name: Johannesburg
+Current temperature: 15.3
+Max temperature: 15.3
+Min temperature: 15.3
+Pressure: 853.46
+Description: moderate rain
+Date: 2017.12.22
+
+Place name: Johannesburg
+Current temperature: 13.15
+Max temperature: 13.15
+Min temperature: 13.15
+Pressure: 848.15
+Description: light rain
+Date: 2017.12.23
+
+Place name: Johannesburg
+Current temperature: 15.15
+Max temperature: 15.15
+Min temperature: 15.15
+Pressure: 850.45
+Description: scattered clouds
+Date: 2017.12.24
+
+Place name: Tokyo
+Current temperature: 4.16
+Max temperature: 5.25
+Min temperature: 4.16
+Pressure: 1035.18
+Description: few clouds
+Date: 2017.12.21
+
+Place name: Tokyo
+Current temperature: 5.55
+Max temperature: 5.55
+Min temperature: 5.55
+Pressure: 1035.2
+Description: broken clouds
+Date: 2017.12.22
+
+Place name: Tokyo
+Current temperature: 6.02
+Max temperature: 6.02
+Min temperature: 6.02
+Pressure: 1031.91
+Description: clear sky
+Date: 2017.12.23
+
+Place name: Tokyo
+Current temperature: 6.53
+Max temperature: 6.53
+Min temperature: 6.53
+Pressure: 1032.43
+Description: broken clouds
+Date: 2017.12.24
+

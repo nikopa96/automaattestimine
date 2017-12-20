@@ -1,0 +1,32 @@
+Place name: Riga
+Current temperature: 0.27
+Max temperature: 0.27
+Min temperature: -0.96
+Pressure: 1037.28
+Description: clear sky
+Date: 2017.12.21
+
+Place name: Riga
+Current temperature: 0.93
+Max temperature: 0.93
+Min temperature: 0.93
+Pressure: 1027.09
+Description: clear sky
+Date: 2017.12.22
+
+Place name: Riga
+Current temperature: 2.57
+Max temperature: 2.57
+Min temperature: 2.57
+Pressure: 1024.29
+Description: light rain
+Date: 2017.12.23
+
+Place name: Riga
+Current temperature: 5.6
+Max temperature: 5.6
+Min temperature: 5.6
+Pressure: 1000.9
+Description: light rain
+Date: 2017.12.24
+

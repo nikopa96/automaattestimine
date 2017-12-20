@@ -1,0 +1,32 @@
+Place name: Cairo
+Current temperature: 16.57
+Max temperature: 16.57
+Min temperature: 14.55
+Pressure: 1018.8
+Description: overcast clouds
+Date: 2017.12.21
+
+Place name: Cairo
+Current temperature: 14.63
+Max temperature: 14.63
+Min temperature: 14.63
+Pressure: 1016.31
+Description: scattered clouds
+Date: 2017.12.22
+
+Place name: Cairo
+Current temperature: 20.12
+Max temperature: 20.12
+Min temperature: 20.12
+Pressure: 1012.38
+Description: scattered clouds
+Date: 2017.12.23
+
+Place name: Cairo
+Current temperature: 14.75
+Max temperature: 14.75
+Min temperature: 14.75
+Pressure: 1015.08
+Description: broken clouds
+Date: 2017.12.24
+
